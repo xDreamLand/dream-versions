@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "up-to-date": {
+        "message": "^2[%s] [SUCCESS] ^7Completely up-to-date!"
+    },
+    "requires-update": {
+        "important": false,
+        "message": "^3[%s] ^1This resource is not up-to-date."
+    }
+}
