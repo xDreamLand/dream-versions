@@ -5,6 +5,6 @@
     },
     "requires-update": {
         "important": false,
-        "message": "^3[%s] ^1This resource is not up-to-date."
+        "message": "^1[%s] ^3This resource is not up-to-date."
     }
 }
