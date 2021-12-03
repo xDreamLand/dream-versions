@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "up-to-date": {
+        "message": "^2[%s] [SUCCESS] ^7Het 'Mijn Meldkamer' systeem is up-to-date!"
+    },
+    "requires-update": {
+        "important": false,
+        "message": "^1[%s] ^3Het 'Mijn Meldkamer' systeem is niet up-to-date. Neem contact met ons op in onze Discord voor meer informatie!"
+    }
+}
