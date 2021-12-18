@@ -4,7 +4,7 @@
         "message": "^2[%s] [SUCCESS] ^7Completely up-to-date!"
     },
     "requires-update": {
-        "important": false,
+        "important": true,
         "message": "^1[%s] ^3This resource is not up-to-date. New important security implementations added, please update this resource."
     }
 }
