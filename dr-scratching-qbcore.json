@@ -1,0 +1,10 @@
+{
+    "version": "3.3.0",
+    "up-to-date": {
+        "message": "^2[%s] [SUCCESS] ^7Completely up-to-date!"
+    },
+    "requires-update": {
+        "important": false,
+        "message": "^1[%s] ^3This resource is not up-to-date. Resolved: changed version URL independently from ESX to prevent unnecessary update messages"
+    }
+}
